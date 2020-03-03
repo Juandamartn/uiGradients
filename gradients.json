@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Edge",
+        "colors": ["#00a1f1", "#7cbb00"]
     }
 ]
